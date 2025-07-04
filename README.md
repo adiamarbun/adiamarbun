@@ -1,6 +1,6 @@
 ## Hello World! I'm Adiasaputra 👋
 
-![adiamarbun](img/github-header-image (2).png)
+![adiamarbun](img/github-header-image.png)
 
 <!--
 **adiamarbun/adiamarbun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
