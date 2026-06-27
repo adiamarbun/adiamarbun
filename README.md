@@ -13,7 +13,7 @@
 ### ⚡ About Me
 
 - 🔭 **Current Focus**: Working on my thesis research.
-- 🌱 **Learning**: Studying to become an AI Engineer, exploring Deep Learning, Machine Learning, and Neural Networks.
+- 🌱 **Learning**: Studying to become an AI Engineer, exploring Deep Learning, Machine Learning, Neural Networks, and Web Development.
 - 💬 **Ask me about**: PHP, Laravel, Python, and Web Development.
 - 📫 **How to reach me**: Connect with me on [LinkedIn](https://www.linkedin.com/in/adisaputra-marbun) or [Instagram](https://instagram.com/adia_2112).
 
